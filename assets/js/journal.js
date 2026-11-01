@@ -248,30 +248,30 @@ const translations = {
 };
 
 const photographs = [
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-01.jpg', alt: { cs: 'Skupina lidí stojí u vozidla; jeden člověk drží papír.', en: 'A group stands beside a vehicle; one person is holding a sheet of paper.' }, caption: { cs: 'Fotografie 01', en: 'Photograph 01' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-02.jpg', alt: { cs: 'Několik lidí stojí venku poblíž stromu.', en: 'Several people stand outdoors near a tree.' }, caption: { cs: 'Fotografie 02', en: 'Photograph 02' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-03.jpg', alt: { cs: 'Pohled na mělký potok pod holými větvemi.', en: 'A view of a shallow stream beneath bare branches.' }, caption: { cs: 'Fotografie 03', en: 'Photograph 03' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-04.jpg', alt: { cs: 'Skupina lidí se shromáždila u vody.', en: 'A group of people has gathered beside the water.' }, caption: { cs: 'Fotografie 04', en: 'Photograph 04' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-05.jpg', alt: { cs: 'Portrétový záběr člověka u stromu a vody.', en: 'A portrait-oriented view of a person beside a tree and water.' }, caption: { cs: 'Fotografie 05', en: 'Photograph 05' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-06.jpg', alt: { cs: 'Dva lidé stojí ve vodě poblíž oranžového předmětu.', en: 'Two people stand in the water near an orange object.' }, caption: { cs: 'Fotografie 06', en: 'Photograph 06' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-07.jpg', alt: { cs: 'Člověk se sklání k vodě vedle oranžového předmětu.', en: 'A person leans toward the water beside an orange object.' }, caption: { cs: 'Fotografie 07', en: 'Photograph 07' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-08.jpg', alt: { cs: 'Dva lidé jsou u potoka; jeden z nich je v podřepu.', en: 'Two people are beside a stream; one is crouching.' }, caption: { cs: 'Fotografie 08', en: 'Photograph 08' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-09.jpg', alt: { cs: 'Nízké větve nad potokem.', en: 'Low branches over a stream.' }, caption: { cs: 'Fotografie 09', en: 'Photograph 09' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-10.jpg', alt: { cs: 'Detail mělké vody.', en: 'A close view of shallow water.' }, caption: { cs: 'Fotografie 10', en: 'Photograph 10' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-11.jpg', alt: { cs: 'Břeh potoka se spadlými větvemi.', en: 'A stream bank with fallen branches.' }, caption: { cs: 'Fotografie 11', en: 'Photograph 11' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-12.jpg', alt: { cs: 'Kamenité dno potoka s tmavými schránkami při pohledu přes červený kruhový rám.', en: 'A stony stream bed with dark shells seen through a circular red frame.' }, caption: { cs: 'Fotografie 12', en: 'Photograph 12' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-13.jpg', alt: { cs: 'Kamenité dno potoka s tmavou schránkou pod kruhovou lupou.', en: 'A stony stream bed with a dark shell beneath a circular magnifier.' }, caption: { cs: 'Fotografie 13', en: 'Photograph 13' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-14.jpg', alt: { cs: 'Mělký potok s větví napříč korytem.', en: 'A shallow stream with a branch across its bed.' }, caption: { cs: 'Fotografie 14', en: 'Photograph 14' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-15.jpg', alt: { cs: 'Lidé procházejí travnatou oblastí u vody.', en: 'People walk through a grassy area beside the water.' }, caption: { cs: 'Fotografie 15', en: 'Photograph 15' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-16.jpg', alt: { cs: 'Tmavá schránka na kamenitém dně potoka.', en: 'A dark shell on a stony stream bed.' }, caption: { cs: 'Fotografie 16', en: 'Photograph 16' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-17.jpg', alt: { cs: 'Nízké větve nad potokem.', en: 'Low branches over a stream.' }, caption: { cs: 'Fotografie 17', en: 'Photograph 17' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-18.jpg', alt: { cs: 'Několik lidí v zalesněném prostoru.', en: 'Several people in a wooded area.' }, caption: { cs: 'Fotografie 18', en: 'Photograph 18' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-19.jpg', alt: { cs: 'Oříznutý pohled na člověka v tmavé bundě a další osobu poblíž.', en: 'A cropped view of a person in a dark jacket with another person nearby.' }, caption: { cs: 'Fotografie 19', en: 'Photograph 19' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-20.jpg', alt: { cs: 'Člověk stojí vedle potoka.', en: 'A person stands beside a stream.' }, caption: { cs: 'Fotografie 20', en: 'Photograph 20' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-21.jpg', alt: { cs: 'Lidé se pohybují vedle spadlého kmene.', en: 'People move beside a fallen tree trunk.' }, caption: { cs: 'Fotografie 21', en: 'Photograph 21' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-22.jpg', alt: { cs: 'Širší pohled na potok lemovaný holými stromy.', en: 'A wider view of a stream bordered by bare trees.' }, caption: { cs: 'Fotografie 22', en: 'Photograph 22' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-23.jpg', alt: { cs: 'Skupinový portrét před budovou; na snímku je také pes.', en: 'A group portrait outside a building; a dog is also in the photo.' }, caption: { cs: 'Fotografie 23', en: 'Photograph 23' } },
-  { image: './assets/images/my-photos/events/event-malse-2026-04-14-24.jpg', alt: { cs: 'Pařez v popředí u potoka.', en: 'A tree stump in the foreground beside a stream.' }, caption: { cs: 'Fotografie 24', en: 'Photograph 24' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-01.jpg', alt: { cs: 'Skupina lidí stojí u vozidla; jeden člověk drží papír.', en: 'A group stands beside a vehicle; one person is holding a sheet of paper.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-02.jpg', alt: { cs: 'Několik lidí stojí venku poblíž stromu.', en: 'Several people stand outdoors near a tree.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-03.jpg', alt: { cs: 'Pohled na mělký potok pod holými větvemi.', en: 'A view of a shallow stream beneath bare branches.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-04.jpg', alt: { cs: 'Skupina lidí se shromáždila u vody.', en: 'A group of people has gathered beside the water.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-05.jpg', alt: { cs: 'Portrétový záběr člověka u stromu a vody.', en: 'A portrait-oriented view of a person beside a tree and water.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-06.jpg', alt: { cs: 'Dva lidé stojí ve vodě poblíž oranžového předmětu.', en: 'Two people stand in the water near an orange object.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-07.jpg', alt: { cs: 'Člověk se sklání k vodě vedle oranžového předmětu.', en: 'A person leans toward the water beside an orange object.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-08.jpg', alt: { cs: 'Dva lidé jsou u potoka; jeden z nich je v podřepu.', en: 'Two people are beside a stream; one is crouching.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-09.jpg', alt: { cs: 'Nízké větve nad potokem.', en: 'Low branches over a stream.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-10.jpg', alt: { cs: 'Detail mělké vody.', en: 'A close view of shallow water.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-11.jpg', alt: { cs: 'Břeh potoka se spadlými větvemi.', en: 'A stream bank with fallen branches.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-12.jpg', alt: { cs: 'Kamenité dno potoka s tmavými schránkami při pohledu přes červený kruhový rám.', en: 'A stony stream bed with dark shells seen through a circular red frame.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-13.jpg', alt: { cs: 'Kamenité dno potoka s tmavou schránkou pod kruhovou lupou.', en: 'A stony stream bed with a dark shell beneath a circular magnifier.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-14.jpg', alt: { cs: 'Mělký potok s větví napříč korytem.', en: 'A shallow stream with a branch across its bed.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-15.jpg', alt: { cs: 'Lidé procházejí travnatou oblastí u vody.', en: 'People walk through a grassy area beside the water.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-16.jpg', alt: { cs: 'Tmavá schránka na kamenitém dně potoka.', en: 'A dark shell on a stony stream bed.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-17.jpg', alt: { cs: 'Nízké větve nad potokem.', en: 'Low branches over a stream.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-18.jpg', alt: { cs: 'Několik lidí v zalesněném prostoru.', en: 'Several people in a wooded area.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-19.jpg', alt: { cs: 'Oříznutý pohled na člověka v tmavé bundě a další osobu poblíž.', en: 'A cropped view of a person in a dark jacket with another person nearby.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-20.jpg', alt: { cs: 'Člověk stojí vedle potoka.', en: 'A person stands beside a stream.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-21.jpg', alt: { cs: 'Lidé se pohybují vedle spadlého kmene.', en: 'People move beside a fallen tree trunk.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-22.jpg', alt: { cs: 'Širší pohled na potok lemovaný holými stromy.', en: 'A wider view of a stream bordered by bare trees.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-23.jpg', alt: { cs: 'Skupinový portrét před budovou; na snímku je také pes.', en: 'A group portrait outside a building; a dog is also in the photo.' } },
+  { image: './assets/images/my-photos/events/event-malse-2026-04-14-24.jpg', alt: { cs: 'Pařez v popředí u potoka.', en: 'A tree stump in the foreground beside a stream.' } },
   
 ];
 
@@ -379,7 +379,7 @@ function renderGallery() {
       button.type = 'button';
       button.dataset.galleryGroup = groupName;
       button.dataset.galleryIndex = String(index);
-      button.setAttribute('aria-label', `${galleryCaption(item)}. ${language === 'cs' ? 'Otevřít fotografii' : 'Open photograph'}`);
+      const captionText = galleryCaption(item);       button.setAttribute('aria-label', `${captionText ? `${captionText}. ` : ''}${language === 'cs' ? 'Otevřít fotografii' : 'Open photograph'}`);
       const image = document.createElement('img');
       image.src = item.image;
       image.alt = translatedField(item.alt);
@@ -388,11 +388,11 @@ function renderGallery() {
       const caption = document.createElement('span');
       caption.className = 'gallery-item__caption';
       const text = document.createElement('span');
-      text.textContent = galleryCaption(item);
+      text.textContent = captionText;
       const tag = document.createElement('span');
       tag.textContent = translate(group.context);
       caption.append(text, tag);
-      button.append(image, caption);
+      if (groupName === 'journal') button.append(image);       else button.append(image, caption);
       grid.append(button);
     });
   });
@@ -405,7 +405,7 @@ function renderLightbox() {
   const image = document.querySelector('#lightbox-image');
   image.src = item.image;
   image.alt = translatedField(item.alt);
-  document.querySelector('#lightbox-caption').textContent = `${galleryCaption(item)} · ${translate(group.context)}`;
+  document.querySelector('#lightbox-caption').textContent = activeGalleryGroup === 'journal' ? '' : `${galleryCaption(item)} · ${translate(group.context)}`;
 }
 
 function setLanguage(nextLanguage) {
