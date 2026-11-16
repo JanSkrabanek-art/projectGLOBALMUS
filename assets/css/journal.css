@@ -104,6 +104,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .project-card__index { margin: 0 0 15px; color: #d5bd98; font-size: 9px; font-weight: 700; letter-spacing: 1px; }
 .project-card h3 { margin: 0 0 16px; color: var(--paper); font-family: var(--serif); font-size: clamp(22px, 2.4vw, 28px); font-weight: 400; line-height: 1.16; }
 .project-card > p:not(.project-card__index) { margin: 0; color: rgba(255,255,255,.78); font-size: 13px; }
+.project-acknowledgement { max-width: 760px; margin: 26px 0 0; padding-top: 16px; border-top: 1px solid rgba(255,255,255,.18); color: rgba(255,255,255,.68); font-size: 12px; line-height: 1.65; }
 .partner-list { margin: 18px 0; padding: 0; border-top: 1px solid rgba(255,255,255,.16); list-style: none; }
 .partner-list li { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,.16); color: rgba(255,255,255,.82); font-size: 11px; line-height: 1.45; }
 .partner-role { flex: 0 0 auto; color: #d5bd98; font-size: 9px; font-weight: 700; white-space: nowrap; }
